@@ -7,7 +7,7 @@
 This is a simple mod that modifies the enchanting table in two ways:
 
 1.  The tool tip now always shows every enchantment instead of only one.
-2.  Clicking on the book generates a new set of enchantments for the price of 6 lapis lazuli
+2.  Clicking on the book generates a new set of enchantments for the price of 1 lapis lazuli
 
 
 
